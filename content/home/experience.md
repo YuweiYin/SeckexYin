@@ -30,7 +30,7 @@ experience:
     date_start: '2022-09-15'
     date_end: '2023-08-15'
     description: |2-
-      * Affiliation: HKU NLP Group, Department of Computer Science (HKU CS)
+      * Affiliation: HKU NLP Group, Department of Computer Science
       * Position: Research Assistant (Full-time)
       * Duty: Leading research projects on natural language processing, computer vision, and financial fraud analysis based on graph neural networks.
       * Supervisor: Prof. Qi Liu.
@@ -43,7 +43,7 @@ experience:
     date_start: '2020-11-24'
     date_end: '2021-09-01'
     description: |2-
-      * Affiliation: Natural Language Computing (NLC) Group, Microsoft Research Asia (MSRA)
+      * Affiliation: Natural Language Computing (NLC) Group, Microsoft Research Asia
       * Position: Research Intern (Stars of Tomorrow Internship Program) (Full-time)
       * Duty: Conducted research on multilingual neural machine translation.
       * Mentor: Shuming Ma. Advisor: Dongdong Zhang and Haoyang Huang.
@@ -56,7 +56,7 @@ experience:
     date_start: '2018-09-01'
     date_end: '2019-06-01'
     description: |2-
-      * Affiliation: Intelligent Information Process Institute, State Key Lab of Software Development Environment, School of Computer Science and Engineering (SCSE)
+      * Affiliation: Intelligent Information Process Institute, State Key Lab of Software Development Environment, School of Computer Science and Engineering
       * Position: Graduate Research Assistant (Part-time)
       * Duty: Developed a data mining and Web system using Vue.js and Django.
       * Supervisor: Prof. Xiaoming Zhang.
@@ -69,7 +69,7 @@ experience:
     date_start: '2017-09-01'
     date_end: '2018-06-01'
     description: |2-
-      * Affiliation: Trusted Computing and Information Assurance (TCA) Group, Institute of Software (ISCAS)
+      * Affiliation: Trusted Computing and Information Assurance Lab, Institute of Software
       * Position: Research Intern (Full-time)
       * Duty: Developed a privacy-protected system on Android and Web platform.
       * Advisor: Prof. Zhenfeng Zhang and Prof. Chengxia Liu.
@@ -82,7 +82,7 @@ experience:
     date_start: '2015-09-01'
     date_end: '2016-12-01'
     description: |2-
-      * Affiliation: Computer Science and Technology Department, Computer School (SCS)
+      * Affiliation: Computer Science and Technology Department, Computer School
       * Position: Undergraduate Research Assistant (Part-time)
       * Duty: Developed a smart band system in a National-level Innovation Project.
       * Supervisor: Prof. Xuping Ma.

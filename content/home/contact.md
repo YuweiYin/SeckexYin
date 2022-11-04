@@ -30,9 +30,9 @@ content:
   # phone: 852 6489 0597
   # phone: 86 187 0815 4662
   address:
-    street: The University of Hong Kong, Pokfulam Road
+    street: University of Hong Kong, Pokfulam Road
     # city: Hong Kong
-    region: Central And Western District
+    region: C&W District
     # postcode: '000000'
     country: Hong Kong
     country_code: HK
