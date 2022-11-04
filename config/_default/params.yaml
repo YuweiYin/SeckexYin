@@ -8,9 +8,10 @@
 appearance:
   theme_day: minimal
   theme_night: minimal
-  # font: minimal
+  font: minimal
   # font: rose
-  font: cyberpunk
+  # font: cyberpunk
+  # font: "Baloo+2"
   font_size: L
 
 # SEO

@@ -34,11 +34,12 @@ interests:
 education:
   courses:
     - course: MSc & PhD in Computer Science (Course Only)
-      institution: Beihang University
-      year: Sep 2018 -- Sep 2021
+      institution: Beihang University (BUAA)
+      year: 2018--2021
     - course: BEng in Computer Science and Technology
-      institution: Beijing Info. Sci. & Tech. University
-      year: Sep 2014 -- Jun 2018
+      # institution: Beijing Info. Sci. & Tech. University
+      institution: Beijing Information Science and Technology University (BISTU)
+      year: 2014--2018
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
