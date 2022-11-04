@@ -6,7 +6,7 @@ widget: contact
 headless: true
 
 # Order that this section appears on the page.
-weight: 130
+weight: 150
 
 title: 'Contact'
 subtitle:
@@ -16,14 +16,14 @@ content:
   autolink: true
 
   # Email form provider
-  form:
-    provider: netlify
-    formspree:
-      id:
-    netlify:
-      # Enable CAPTCHA challenge to reduce spam?
-      # captcha: false
-      captcha: true
+  # form:
+  #   provider: netlify
+  #   formspree:
+  #     id:
+  #   netlify:
+  #     # Enable CAPTCHA challenge to reduce spam?
+  #     # captcha: false
+  #     captcha: true
 
   # Contact details (edit or remove options as required)
   email: seckexyin@gmail.com

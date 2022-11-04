@@ -61,10 +61,10 @@ url_video: 'https://aclanthology.org/2021.acl-short.31.mp4'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
-image:
-  caption: '2021-08-02-ACL-Multilingual-Agreement'
-  focal_point: ''
-  preview_only: false
+# image:
+#   caption: '2021-08-02-ACL-Multilingual-Agreement'
+#   focal_point: ''
+#   preview_only: false
 
 # Associated Projects (optional).
 #   Associate this publication with one or more of your projects.

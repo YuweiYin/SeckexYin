@@ -36,8 +36,8 @@ experience:
       * Supervisor: Prof. Qi Liu.
 
   - title: 'Research Intern'
-    company: 'Microsoft'
-    company_url: ''
+    company: 'Microsoft Research'
+    company_url: 'https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/'
     company_logo: logo_microsoft
     location: 'Beijing, China'
     date_start: '2020-11-24'
@@ -50,20 +50,20 @@ experience:
 
   - title: 'Graduate Research Assistant'
     company: 'Beihang University'
-    company_url: ''
+    company_url: 'https://ev.buaa.edu.cn/'
     company_logo: logo_buaa
     location: 'Beijing, China'
     date_start: '2018-09-01'
     date_end: '2019-06-01'
     description: |2-
-      * Affiliation: Intelligent Information Process Institute, School of Computer Science and Engineering (SCSE)
+      * Affiliation: Intelligent Information Process Institute, State Key Lab of Software Development Environment, School of Computer Science and Engineering (SCSE)
       * Position: Graduate Research Assistant (Part-time)
       * Duty: Developed a data mining and web system using Vue.js and Django.
       * Supervisor: Prof. Xiaoming Zhang.
 
   - title: 'Research Intern'
     company: 'Chinese Academy of Sciences'
-    company_url: ''
+    company_url: 'https://english.cas.cn/'
     company_logo: logo_cas
     location: 'Beijing, China'
     date_start: '2017-09-01'
@@ -76,7 +76,7 @@ experience:
 
   - title: 'Undergraduate Research Assistant'
     company: 'Beijing Information Science and Technology University'
-    company_url: ''
+    company_url: 'https://english.bistu.edu.cn/'
     company_logo: logo_bistu
     location: 'Beijing, China'
     date_start: '2015-09-01'

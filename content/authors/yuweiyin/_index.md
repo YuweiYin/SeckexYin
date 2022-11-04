@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Yuwei Yin 阴昱为
+title: Yuwei Yin
 
 # Full name (for SEO)
 first_name: Yuwei
@@ -13,7 +13,7 @@ superuser: true
 # Artificial Intelligence
 # Computational Linguistics
 # Natural Language Processing
-role: Researcher in Natural Language Processing
+role: Researcher in Machine Learning & Natural Language Processing
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -35,10 +35,10 @@ education:
   courses:
     - course: MSc & PhD in Computer Science (Course Only)
       institution: Beihang University
-      year: 2018-2021
+      year: Sep 2018 -- Sep 2021
     - course: BEng in Computer Science and Technology
       institution: Beijing Info. Sci. & Tech. University
-      year: 2014-2018
+      year: Sep 2014 -- Jun 2018
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -60,8 +60,8 @@ social:
   - icon: github
     icon_pack: fab
     link: https://github.com/YuweiYin
-  - icon: google-scholar # `graduation-cap` `google-scholar` icon from `ai` icon pack
-    icon_pack: fas
+  - icon: graduation-cap # `graduation-cap` `google-scholar` icon from `ai` icon pack
+    icon_pack: fab
     link: https://scholar.google.com/citations?user=DPAmfKEAAAAJ
 
 # Link to a PDF of your resume/CV.
@@ -78,7 +78,9 @@ email: ''
 highlight_name: true
 ---
 
-Mr. Yuwei Yin is a natural language processing (NLP) researcher in the HKU NLP Group at the Department of Computer Science, The University of Hong Kong (HKU CS). His research interest lies in natural language understanding & generation, multilingual NLP, and interpretable NLP. Accordingly, his research goals are mainly three folds: 1. to improve the understanding and generating ability of general NLP models; 2. to tap the potential of multilingual NLP in a broader scenario; 3. to fathom the essence of NLP models and make them more interpretable, understandable, and controllable.
+Mr. Yuwei Yin is a natural language processing (NLP) researcher in the HKU NLP Group at the Department of Computer Science, The University of Hong Kong (HKU CS).
+
+His research interest lies in natural language understanding & generation, multilingual NLP, and interpretable NLP. Accordingly, his research goals are mainly three folds: 1. to improve the understanding and generating ability of general NLP models; 2. to tap the potential of multilingual NLP in a broader scenario; 3. to fathom the essence of NLP models and make them more interpretable, understandable, and controllable.
 
 What do we really mean by understanding? How exactly do we humans make sentences? How can computers do what we can do in terms of language? What does multilinguality mean to us? How can we break the language barrier to promote peace in the world? The discovery and explanation of human beings, nature, and the universe drive him to embark on a fascinating lifelong research journey.
 
