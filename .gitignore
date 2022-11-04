@@ -1,6 +1,9 @@
 # IDEs
 .idea/
 
+# Mac
+.DS_Store
+
 # Hugo
 resources/
 public/
@@ -8,3 +11,6 @@ jsconfig.json
 node_modules/
 go.sum
 .hugo_build.lock
+
+# Local Netlify folder
+.netlify
