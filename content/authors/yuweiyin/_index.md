@@ -61,7 +61,7 @@ social:
     icon_pack: fab
     link: https://github.com/YuweiYin
   - icon: graduation-cap # `graduation-cap` `google-scholar` icon from `ai` icon pack
-    icon_pack: fab
+    icon_pack: fas
     link: https://scholar.google.com/citations?user=DPAmfKEAAAAJ
 
 # Link to a PDF of your resume/CV.

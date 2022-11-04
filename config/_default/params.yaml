@@ -9,8 +9,8 @@ appearance:
   theme_day: minimal
   theme_night: minimal
   # font: minimal
-  font: rose
-  # font: cyberpunk
+  # font: rose
+  font: cyberpunk
   font_size: L
 
 # SEO
