@@ -7,7 +7,7 @@ widget: gallery
 headless: true
 
 # Order that this section appears on the page.
-weight: 130
+weight: 50
 
 title: Moments
 subtitle:
