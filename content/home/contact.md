@@ -8,7 +8,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 130
 
-title: Contact
+title: 'Contact'
 subtitle:
 
 content:
@@ -22,35 +22,37 @@ content:
       id:
     netlify:
       # Enable CAPTCHA challenge to reduce spam?
-      captcha: false
+      # captcha: false
+      captcha: true
 
   # Contact details (edit or remove options as required)
-  email: test@example.org
-  phone: 888 888 88 88
+  email: seckexyin@gmail.com
+  # phone: 852 6489 0597
+  # phone: 86 187 0815 4662
   address:
-    street: 450 Serra Mall
-    city: Stanford
-    region: CA
-    postcode: '94305'
-    country: United States
-    country_code: US
+    street: The University of Hong Kong, Pokfulam Road
+    # city: Hong Kong
+    region: Central And Western District
+    # postcode: '000000'
+    country: Hong Kong
+    country_code: HK
   coordinates:
-    latitude: '37.4275'
-    longitude: '-122.1697'
-  directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
+    latitude: '22.2831'
+    longitude: '114.1366'
+  # directions: Enter Haking Wong Building and take the stairs to Room 335A on Floor 3
+  directions: Room 335A, Floor 3, Haking Wong Building
   office_hours:
-    - 'Monday 10:00 to 13:00'
-    - 'Wednesday 09:00 to 10:00'
-  appointment_url: 'https://calendly.com'
-  contact_links:
-    - icon: twitter
-      icon_pack: fab
-      name: DM Me
-      link: 'https://twitter.com/Twitter'
-    - icon: video
-      icon_pack: fas
-      name: Zoom Me
-      link: 'https://zoom.com'
+    - 'Weekdays 09:00 to 17:00'
+  # appointment_url: 'https://calendly.com'
+  # contact_links:
+  #   - icon: twitter
+  #     icon_pack: fab
+  #     name: DM Me
+  #     link: 'https://twitter.com/SeckexYIN'
+  #   - icon: video
+  #     icon_pack: fas
+  #     name: Zoom Me
+  #     link: 'https://zoom.com'
 
 design:
   columns: '2'
