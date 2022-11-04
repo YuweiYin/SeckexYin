@@ -2,6 +2,7 @@
 # An instance of the Pages widget.
 # Documentation: https://wowchemy.com/docs/page-builder/
 widget: collection
+# widget: pages
 
 # This file represents a page section.
 headless: true
@@ -21,6 +22,7 @@ content:
     category: ''
     publication_type: ''
     author: ''
+    featured_only: false
     exclude_featured: false
     exclude_future: false
     exclude_past: false
