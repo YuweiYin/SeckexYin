@@ -32,7 +32,7 @@ content:
   address:
     street: University of Hong Kong, Pokfulam Road
     # city: Hong Kong
-    region: C&W District
+    region: C&W District, Hong Kong
     # postcode: '000000'
     country: Hong Kong
     country_code: HK

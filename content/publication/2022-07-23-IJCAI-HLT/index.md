@@ -106,6 +106,8 @@ MathJax = {
 
 ![picture](https://yuweiyin.com/files/img/2022-07-23-IJCAI-HLT.png)
 
+- [Spotlight Video](https://ijcai-22.org/video/?vid=38986463) \| [Full Oral Video](https://ijcai-22.org/video/?vid=38984606)
+
 ```bibtex
 @inproceedings{hltmt,
   title     = {High-resource Language-specific Training for Multilingual Neural Machine Translation},

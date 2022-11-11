@@ -108,6 +108,8 @@ MathJax = {
 
 ![picture](https://yuweiyin.com/files/img/2022-07-23-IJCAI-UM4.png)
 
+- [Spotlight Video](https://ijcai-22.org/video/?vid=38986462) \| [Full Oral Video](https://ijcai-22.org/video/?vid=38984605)
+
 ```bibtex
 @inproceedings{um4,
   title     = {UM4: Unified Multilingual Multiple Teacher-Student Model for Zero-Resource Neural Machine Translation},

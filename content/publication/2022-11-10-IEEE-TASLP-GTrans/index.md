@@ -7,6 +7,7 @@ title: 'GTrans: Grouping and Fusing Transformer Layers for Neural Machine Transl
 authors:
   - 'Jian Yang'
   - yuweiyin
+  - 'Liqun Yang'
   - 'Shuming Ma'
   - 'Haoyang Huang'
   - 'Dongdong Zhang'
@@ -18,11 +19,11 @@ authors:
 #   - 'Equal contribution'
 #   - 'Equal contribution'
 
-date: '2022-07-29T00:00:00Z'
-doi: ''
+date: '2022-11-10T00:00:00Z'
+doi: '10.1109/TASLP.2022.3221040'
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2022-07-29T00:00:00Z'
+publishDate: '2022-11-10T00:00:00Z'
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -105,14 +106,16 @@ MathJax = {
 };
 </script>
 
-![picture](https://yuweiyin.com/files/img/2022-07-29-IEEE-TASLP-GTrans.png)
+![picture](https://yuweiyin.com/files/img/2022-11-10-IEEE-TASLP-GTrans.png)
 
 ```bibtex
 @article{gtrans,
   title     = {GTrans: Grouping and Fusing Transformer Layers for Neural Machine Translation},
-  author    = {Yang, Jian and Yin, Yuwei and Ma, Shuming and Huang, Haoyang and Zhang, Dongdong and Wei, Furu and Li, Zhoujun},
+  author    = {Yang, Jian and Yin, Yuwei and Yang, Liqun and Ma, Shuming and Huang, Haoyang and Zhang, Dongdong and Wei, Furu and Li, Zhoujun},
   journal   = {IEEE/ACM Transactions on Audio, Speech, and Language Processing},
   year      = {2022},
-  url       = {https://arxiv.org/abs/2207.14467},
+  pages     = {1-10},
+  doi       = {10.1109/TASLP.2022.3221040},
+  url       = {https://ieeexplore.ieee.org/document/9944969},
 }
 ```

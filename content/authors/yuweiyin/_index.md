@@ -79,7 +79,7 @@ email: ''
 highlight_name: true
 ---
 
-Mr. Yuwei Yin is a natural language processing (NLP) researcher in the HKU NLP Group at the Department of Computer Science, The University of Hong Kong (HKU CS).
+Mr. Yuwei Yin is a natural language processing (NLP) researcher in the HKU NLP Group at the Department of Computer Science, The University of Hong Kong.
 
 His research interest lies in natural language understanding & generation, multilingual NLP, and interpretable NLP. Accordingly, his research goals are mainly three folds: 1. to improve the understanding and generating ability of general NLP models; 2. to tap the potential of multilingual NLP in a broader scenario; 3. to fathom the essence of NLP models and make them more interpretable, understandable, and controllable.
 
