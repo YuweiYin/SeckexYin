@@ -27,8 +27,8 @@ bio: My research interest lies in natural language understanding & generation, m
 interests:
   - Computational Linguistics
   - Multilinguality and Translation
-  - Interpretability for NLP
   - Multimodal Machine Learning
+  - Interpretability for NLP
 
 # Education to show in About widget
 education:
