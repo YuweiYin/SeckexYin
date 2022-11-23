@@ -53,7 +53,7 @@ url_code: 'https://github.com/YuweiYin/MNMT_Aux_Src_Lang'
 url_dataset: ''
 url_poster: ''
 url_project: ''
-url_slides: ''
+url_slides: 'https://yuweiyin.com/files/pdf/2021-11-07-EMNLP-AuxSource-Slides.pdf'
 url_source: 'https://aclanthology.org/2021.findings-emnlp.260/'
 url_video: 'https://aclanthology.org/2021.findings-emnlp.260.mp4'
 
