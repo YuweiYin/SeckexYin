@@ -32,7 +32,7 @@ experience:
     description: |2-
       * Affiliation: HKU NLP Group, Department of Computer Science
       * Position: Research Assistant (Full-time)
-      * Duty: Leading research projects on natural language processing, computer vision, and financial fraud analysis based on graph neural networks.
+      * Duty: Leading research projects based on graph neural networks and multimodal generation (natural language processing and computer vision).
       * Supervisor: Prof. Qi Liu.
 
   - title: 'Research Intern'
