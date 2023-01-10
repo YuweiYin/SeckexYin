@@ -26,7 +26,8 @@ content:
   #     captcha: true
 
   # Contact details (edit or remove options as required)
-  email: seckexyin@gmail.com
+  # email: seckexyin@gmail.com
+  email: yuwei_yin@163.com
   # phone: 852 6489 0597
   # phone: 86 187 0815 4662
   address:
