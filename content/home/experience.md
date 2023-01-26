@@ -48,19 +48,6 @@ experience:
       * Duty: Conducted research on multilingual neural machine translation.
       * Mentor: Shuming Ma. Advisor: Dongdong Zhang and Haoyang Huang.
 
-  - title: 'Graduate Research Assistant'
-    company: 'Beihang University'
-    company_url: 'https://ev.buaa.edu.cn/'
-    company_logo: logo_buaa
-    location: 'Beijing, China'
-    date_start: '2018-09-01'
-    date_end: '2019-06-01'
-    description: |2-
-      * Affiliation: Intelligent Information Process Institute, State Key Lab of Software Development Environment, School of Computer Science and Engineering
-      * Position: Graduate Research Assistant (Part-time)
-      * Duty: Developed a data mining and Web system using Vue.js and Django.
-      * Supervisor: Prof. Xiaoming Zhang.
-
   - title: 'Research Intern'
     company: 'Chinese Academy of Sciences'
     company_url: 'https://english.cas.cn/'

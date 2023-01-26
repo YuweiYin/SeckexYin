@@ -28,14 +28,14 @@ interests:
   - Computational Linguistics
   - Multilinguality and Translation
   - Multimodal Machine Learning
-  - Interpretability for NLP
+  # - Interpretability for NLP
 
 # Education to show in About widget
 education:
   courses:
-    - course: MSc & PhD in Computer Science (Course Only)
-      institution: Beihang University
-      year: 2018--2021
+    # - course: MSc & PhD in Computer Science (Course Only)
+    #   institution: Beihang University
+    #   year: 2018--2021
     - course: BEng in Computer Science and Technology
       # institution: Beijing Info. Sci. & Tech. University
       institution: Beijing Information Science & Technology University
