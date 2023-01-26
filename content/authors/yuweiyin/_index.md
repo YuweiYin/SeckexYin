@@ -79,7 +79,7 @@ email: ''
 highlight_name: true
 ---
 
-<b>Note</b>: My Gmail seckexyin@gmail.com is temporarily out of use. Please contact me via yuwei_yin@163.com
+<!-- <b>Note</b>: My Gmail seckexyin@gmail.com is temporarily out of use. Please contact me via yuwei_yin@163.com -->
 
 Mr. Yuwei Yin is a natural language processing (NLP) researcher in the HKU NLP Group at the Department of Computer Science, The University of Hong Kong.
 
