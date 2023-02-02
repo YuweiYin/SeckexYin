@@ -83,8 +83,10 @@ highlight_name: true
 
 Mr. Yuwei Yin is a natural language processing (NLP) researcher in the HKU NLP Group at the Department of Computer Science, The University of Hong Kong.
 
-His research interest lies in natural language understanding & generation, multilingual NLP, and interpretable NLP. Accordingly, his research goals are mainly three folds: 1. to improve the understanding and generating ability of general NLP models; 2. to tap the potential of multilingual NLP in a broader scenario; 3. to fathom the essence of NLP models and make them more interpretable, understandable, and controllable.
+Natural Language Processing, Multilinguality & Multimodality, and Interpretability
 
-What do we really mean by understanding? How exactly do we humans make sentences? How can computers do what we can do in terms of language? What does multilinguality mean to us? How can we break the language barrier to promote peace in the world? The discovery and explanation of human beings, nature, and the universe drive him to embark on a fascinating lifelong research journey. ([Blog Page](https://yuweiyin.github.io/))
+His research interest lies in exploring natural language processing on multilingualism, multimodality, and interpretability. Accordingly, his research goals are mainly three folds: I) to improve the understanding and generating ability of general NLP models; II) to tap the potential of multilingual NLP and multimodal machine learning in a broader scenario; III) to fathom the essence of human language and make the models more interpretable, understandable, and controllable.
+
+What do we really mean by "understanding"? How exactly do we humans make sentences in our brains? What is the purpose of language? What does multilingualism mean to us? How can we break the language barrier to promote peace in the world? Will our civilizations last any longer? What are the quantum world, outer space, and the inside of a black hole like? Is there an absolute truth or a universal law that governs everything? Are we human beings the slave of our own sensors, i.e., visual, auditory, olfactory, gustatory, and tactile sensations? The discovery and explanation of human beings, nature, and the universe drive him to embark on a fascinating lifelong research journey. ([Blog Page](https://yuweiyin.github.io/))
 
 {{< icon name="download" pack="fas" >}} {{< staticref "files/pdf/CV-Yuwei_Yin.pdf" "newtab" >}}Curriculum Vitae / Résumé{{< /staticref >}}
