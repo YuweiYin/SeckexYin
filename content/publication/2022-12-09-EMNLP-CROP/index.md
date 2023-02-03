@@ -52,13 +52,13 @@ featured: false
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'https://arxiv.org/pdf/2210.07022'
+url_pdf: 'https://aclanthology.org/2022.findings-emnlp.34.pdf'
 url_code: 'https://github.com/YuweiYin/CROP'
 url_dataset: ''
 url_poster: ''
 url_project: ''
 url_slides: ''
-url_source: 'https://arxiv.org/abs/2210.07022'
+url_source: 'https://aclanthology.org/2022.findings-emnlp.34/'
 url_video: ''
 
 # Featured image
@@ -111,9 +111,14 @@ MathJax = {
 
 ```bibtex
 @inproceedings{crop,
-  title     = {CROP: Zero-shot Cross-lingual Named Entity Recognition with Multilingual Labeled Sequence Translation},
-  author    = {Yang, Jian and Huang, Shaohan and Ma, Shuming and Yin, Yuwei and Dong, Li and Zhang, Dongdong and Guo, Hongcheng and Li, Zhoujun and Wei, Furu},
-  booktitle = {Findings of the Association for Computational Linguistics: EMNLP 2022},
-  year      = {2022},
+  title = "{CROP}: Zero-shot Cross-lingual Named Entity Recognition with Multilingual Labeled Sequence Translation",
+  author = "Yang, Jian and Huang, Shaohan and Ma, Shuming and Yin, Yuwei and Dong, Li and Zhang, Dongdong and Guo, Hongcheng and Li, Zhoujun and Wei, Furu",
+  booktitle = "Findings of the Association for Computational Linguistics: EMNLP 2022",
+  publisher = "Association for Computational Linguistics",
+  pages = "486--496",
+  year = "2022",
+  month = "12",
+  url = "https://aclanthology.org/2022.findings-emnlp.34",
+  address = "Abu Dhabi, United Arab Emirates",
 }
 ```

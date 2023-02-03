@@ -21,12 +21,12 @@ organizations:
     url: https://www.hku.hk/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interest lies in natural language understanding & generation, multilingual NLP, and interpretable NLP.
+bio: Researcher in Machine Learning & Natural Language Processing
 
 # Interests to show in About widget
 interests:
   - Computational Linguistics
-  - Multilinguality and Translation
+  - Multilingual Translation
   - Multimodal Machine Learning
   # - Interpretability for NLP
 
