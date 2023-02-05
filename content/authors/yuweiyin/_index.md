@@ -26,8 +26,9 @@ bio: Researcher in Machine Learning & Natural Language Processing
 # Interests to show in About widget
 interests:
   - Computational Linguistics
-  - Multilingual Translation
-  - Interpretability in NLP
+  - Multilingualism & Multimodality
+  - Commonsense & Interpretability
+  # - Multilingual Translation
   # - Interpretability for NLP
   # - Multimodal Machine Learning
   # - Multilingualism & Multimodality
