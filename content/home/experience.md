@@ -33,7 +33,7 @@ experience:
       * Affiliation: HKU NLP Group, Department of Computer Science
       * Position: Research Assistant (Full-time)
       * Duty: Leading research projects based on graph neural networks and multimodal generation (natural language processing and computer vision).
-      * Supervisor: Prof. Qi Liu.
+      * Manager: Prof. Qi Liu.
 
   - title: 'Research Intern'
     company: 'Microsoft Research'
@@ -57,22 +57,22 @@ experience:
     date_end: '2018-06-01'
     description: |2-
       * Affiliation: Trusted Computing and Information Assurance Lab, Institute of Software
-      * Position: Research Intern (Full-time)
-      * Duty: Developed a privacy-protected system on Android and Web platform.
+      * Position: Research Intern (Talent Cultivation Program) (Full-time) (Unpaid)
+      * Duty: Developed a privacy-protected system on Android and Web platforms.
       * Advisor: Prof. Zhenfeng Zhang and Prof. Chengxia Liu.
 
-  - title: 'Undergraduate Research Assistant'
-    company: 'Beijing Information Science and Technology University'
-    company_url: 'https://english.bistu.edu.cn/'
-    company_logo: logo_bistu
-    location: 'Beijing, China'
-    date_start: '2015-09-01'
-    date_end: '2016-12-01'
-    description: |2-
-      * Affiliation: Computer Science and Technology Department, Computer School
-      * Position: Undergraduate Research Assistant (Part-time)
-      * Duty: Developed a smart band system in a National-level Innovation Project.
-      * Supervisor: Prof. Xuping Ma.
+  # - title: 'Undergraduate Research Assistant'
+  #   company: 'Beijing Information Science and Technology University'
+  #   company_url: 'https://english.bistu.edu.cn/'
+  #   company_logo: logo_bistu
+  #   location: 'Beijing, China'
+  #   date_start: '2015-09-01'
+  #   date_end: '2016-12-01'
+  #   description: |2-
+  #     * Affiliation: Computer Science and Technology Department, Computer School
+  #     * Position: Undergraduate Research Assistant (Part-time)
+  #     * Duty: Developed a smart band system in a National-level Innovation Project.
+  #     * Supervisor: Prof. Xuping Ma.
 
 design:
   columns: '2'
