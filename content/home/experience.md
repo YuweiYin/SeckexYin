@@ -43,7 +43,7 @@ experience:
     date_start: '2020-11-24'
     date_end: '2021-09-01'
     description: |2-
-      * Affiliation: Natural Language Computing (NLC) Group, Microsoft Research Asia
+      * Affiliation: Natural Language Computing (NLC) Group, Microsoft Research Asia (MSRA)
       * Position: Research Intern (Stars of Tomorrow Internship Program) (Full-time)
       * Duty: Conducted research on multilingual neural machine translation.
       * Mentor: Shuming Ma. Advisor: Dongdong Zhang and Haoyang Huang.
