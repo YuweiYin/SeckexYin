@@ -32,7 +32,7 @@ experience:
     description: |2-
       * Affiliation: HKU NLP Group, Department of Computer Science
       * Position: Research Assistant (Full-time)
-      * Duty: Leading research projects based on graph neural networks and multimodal generation (natural language processing and computer vision).
+      * Duty: Conducting research on FinTech and multimodal NLP.
       * Manager: Prof. Qi Liu.
 
   - title: 'Research Intern'
@@ -48,18 +48,18 @@ experience:
       * Duty: Conducted research on multilingual neural machine translation.
       * Mentor: Shuming Ma. Advisor: Dongdong Zhang and Haoyang Huang.
 
-  - title: 'Research Intern'
-    company: 'Chinese Academy of Sciences'
-    company_url: 'https://english.cas.cn/'
-    company_logo: logo_cas
-    location: 'Beijing, China'
-    date_start: '2017-09-01'
-    date_end: '2018-06-01'
-    description: |2-
-      * Affiliation: Trusted Computing and Information Assurance Lab, Institute of Software
-      * Position: Research Intern (Talent Cultivation Program) (Full-time) (Unpaid)
-      * Duty: Developed a privacy-protected system on Android and Web platforms.
-      * Advisor: Prof. Zhenfeng Zhang and Prof. Chengxia Liu.
+  # - title: 'Research Intern'
+  #   company: 'Chinese Academy of Sciences'
+  #   company_url: 'https://english.cas.cn/'
+  #   company_logo: logo_cas
+  #   location: 'Beijing, China'
+  #   date_start: '2017-09-01'
+  #   date_end: '2018-06-01'
+  #   description: |2-
+  #     * Affiliation: Trusted Computing and Information Assurance Lab, Institute of Software
+  #     * Position: Research Intern (Talent Cultivation Program) (Full-time) (Unpaid)
+  #     * Duty: Developed a privacy-protected system on Android and Web platforms.
+  #     * Advisor: Prof. Zhenfeng Zhang and Prof. Chengxia Liu.
 
   # - title: 'Undergraduate Research Assistant'
   #   company: 'Beijing Information Science and Technology University'
