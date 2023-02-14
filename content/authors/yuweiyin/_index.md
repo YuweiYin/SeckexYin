@@ -25,9 +25,11 @@ bio: Researcher in Machine Learning & Natural Language Processing
 
 # Interests to show in About widget
 interests:
-  - Computational Linguistics
+  - Natural Language Processing
   - Multilingualism & Multimodality
   - Commonsense & Interpretability
+  # - Computational Linguistics
+  # - Natural Language Processing
   # - Multilingual Translation
   # - Interpretability for NLP
   # - Multimodal Machine Learning
@@ -40,7 +42,7 @@ education:
     # - course: MSc & PhD in Computer Science (Course Only)
     #   institution: Beihang University
     #   year: 2018--2021
-    - course: BEng in Computer Science and Technology
+    - course: B.Eng. in Computer Science & Technology
       # institution: Beijing Info. Sci. & Tech. University
       institution: Beijing Information Science & Technology University
       year: 2014--2018

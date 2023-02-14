@@ -26,7 +26,7 @@ experience:
     company: 'University of Hong Kong'
     company_url: 'https://www.hku.hk/'
     company_logo: logo_hku
-    location: 'Hong Kong'
+    location: 'Pokfulam, Hong Kong'
     date_start: '2022-09-15'
     date_end: '2023-08-15'
     description: |2-
@@ -39,7 +39,7 @@ experience:
     company: 'Microsoft Research'
     company_url: 'https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/'
     company_logo: logo_microsoft
-    location: 'Beijing, China'
+    location: 'Haidian, Beijing, China'
     date_start: '2020-11-24'
     date_end: '2021-09-01'
     description: |2-
