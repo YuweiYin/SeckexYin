@@ -32,7 +32,7 @@ experience:
     description: |2-
       * Affiliation: HKU NLP Group, Department of Computer Science
       * Position: Research Assistant (Full-time)
-      * Duty: Conducting research on FinTech and multimodal NLP.
+      * Duty: Conducting research on multimodal NLP and FinTech.
       * Manager: Prof. Qi Liu.
 
   - title: 'Research Intern'

@@ -40,7 +40,7 @@ item:
     description: ''
     organization: 'Beijing Municipal Commission of Education'
     organization_url: 
-    title: 'Beijing Outstanding Graduate Award'
+    title: 'Outstanding Graduate Award'
     url: ''
   - certificate_url: 
     date_end: ''
@@ -48,7 +48,7 @@ item:
     description: ''
     organization: 'The Ministry of Education of China'
     organization_url: 
-    title: 'China National Scholarship'
+    title: 'National Scholarship'
     url: ''
   - certificate_url: 
     date_end: ''
@@ -56,7 +56,7 @@ item:
     description: ''
     organization: 'The Ministry of Education of China'
     organization_url: 
-    title: 'China National Scholarship'
+    title: 'National Scholarship'
     url: ''
 # item:
 #   - certificate_url: https://www.coursera.org
