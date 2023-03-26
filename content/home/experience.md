@@ -9,7 +9,8 @@ headless: true
 # Order that this section appears on the page.
 weight: 20
 
-title: 'Research Experience'
+# title: 'Research Experience'
+title: 'Work Experience'
 subtitle:
 
 # Date format for experience
@@ -33,7 +34,7 @@ experience:
       * Affiliation: HKU NLP Group, Department of Computer Science
       * Position: Research Assistant (Full-time)
       * Duty: Conducting research on multimodal NLP and FinTech.
-      * Manager: Prof. Qi Liu.
+      * Manager: Qi Liu.
 
   - title: 'Research Intern'
     company: 'Microsoft Research'
@@ -46,7 +47,7 @@ experience:
       * Affiliation: Natural Language Computing (NLC) Group, Microsoft Research Asia (MSRA)
       * Position: Research Intern (Stars of Tomorrow Internship Program) (Full-time)
       * Duty: Conducted research on multilingual neural machine translation.
-      * Mentor: Shuming Ma. Advisor: Dongdong Zhang and Haoyang Huang.
+      * Mentor: Shuming Ma. Managers: Dongdong Zhang and Haoyang Huang.
 
   # - title: 'Research Intern'
   #   company: 'Chinese Academy of Sciences'
