@@ -29,12 +29,13 @@ experience:
     company_logo: logo_hku
     location: 'Pokfulam, Hong Kong'
     date_start: '2022-09-15'
-    date_end: '2023-08-15'
+    #date_end: '2023-08-15'
+    date_end: ''
     description: |2-
-      * Affiliation: HKU NLP Group, Department of Computer Science
-      * Position: Research Assistant (Full-time)
-      * Duty: Conducting research on multimodal NLP and FinTech.
-      * Manager: Qi Liu.
+      * Affiliation: HKU NLP Group, Department of Computer Science, Faculty of Engineering
+      * Position: Research Assistant (Full-time, Paid)
+      * Duty: Conducting research on multimodal natural language processing and FinTech.
+  #    * Manager: Qi Liu.
 
   - title: 'Research Intern'
     company: 'Microsoft Research'
@@ -45,9 +46,9 @@ experience:
     date_end: '2021-09-01'
     description: |2-
       * Affiliation: Natural Language Computing (NLC) Group, Microsoft Research Asia (MSRA)
-      * Position: Research Intern (Stars of Tomorrow Internship Program) (Full-time)
+      * Position: Research Intern (Stars of Tomorrow Internship Program) (Full-time, Paid)
       * Duty: Conducted research on multilingual neural machine translation.
-      * Mentor: Shuming Ma. Managers: Dongdong Zhang and Haoyang Huang.
+  #    * Mentor: Shuming Ma. Managers: Dongdong Zhang and Haoyang Huang.
 
   # - title: 'Research Intern'
   #   company: 'Chinese Academy of Sciences'
