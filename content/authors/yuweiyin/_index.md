@@ -49,10 +49,12 @@ education:
     # - course: M.Sc. & Ph.D. in Computer Science (Quitted)
     #   institution: Beihang University
     #   year: 2018--2021
-    - course: B.Eng. in Computer Science & Technology
+    - course: B.Eng. in Computer Sci. & Tech.
+      # course: B.Eng. in Computer Science & Technology
       # institution: Beijing Info. Sci. & Tech. University
       institution: Beijing Information Science & Technology University
       year: 2014--2018
+      # year: 2018
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -92,6 +94,6 @@ email: ''
 highlight_name: true
 ---
 
-Mr. Yuwei Yin is an artificial intelligence (AI) and natural language processing (NLP) researcher in the UBC NLP Group at the Department of Computer Science, Faculty of Science, The University of British Columbia. Currently, his research interest is natural language processing on multilingualism and multimodality. His long-term goal is to build a versatile instant translator of all languages and modalities for breaking language barriers, facilitating communication, and rebuilding the Tower of Babel--gathering the intelligence of us all to achieve something supreme. He is also fascinated with the preliminary idea of free-will programming in order to advance toward artificial general intelligence (AGI). He is open to discussing these interdisciplinary matters with researchers of various backgrounds. ([MISC](https://yuweiyin.github.io/))
+Mr. Yuwei Yin is an artificial intelligence (AI) and natural language processing (NLP) researcher in the [UBC NLP Group](http://nlp.cs.ubc.ca/) at the Department of Computer Science, Faculty of Science, University of British Columbia. Currently, his research interest is natural language processing on multilingualism and multimodality. His long-term goal is to build a versatile instant translator of all languages and modalities for breaking language barriers, facilitating communication, and rebuilding the Tower of Babel--gathering the intelligence of us all to achieve something supreme. He is also fascinated with the preliminary idea of free-will programming in order to advance toward artificial general intelligence (AGI). He is open to discussing these interdisciplinary matters with researchers of various backgrounds. ([MISC](https://yuweiyin.github.io/))
 
 {{< icon name="download" pack="fas" >}} {{< staticref "files/pdf/CV-Yuwei_Yin.pdf" "newtab" >}}Curriculum Vitae / Résumé{{< /staticref >}}
