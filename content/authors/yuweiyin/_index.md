@@ -13,11 +13,12 @@ superuser: true
 # Artificial Intelligence
 # Computational Linguistics
 # Natural Language Processing
-role: Researcher in Machine Learning & Natural Language Processing
+# role: Researcher in Machine Learning & Natural Language Processing
+role: Researcher in AI/NLP
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: The University of British Columbia
+  - name: University of British Columbia
     url: https://www.ubc.ca/
 
 # Short bio (displayed in user profile at end of posts)
@@ -44,10 +45,10 @@ education:
   courses:
     - course: M.Sc. in Computer Science
       institution: The University of British Columbia
-      year: 2023--2025
-    - course: M.Sc. & Ph.D. in Computer Science (Quitted)
-      institution: Beihang University
-      year: 2018--2021
+      year: 2023 Incoming
+    # - course: M.Sc. & Ph.D. in Computer Science (Quitted)
+    #   institution: Beihang University
+    #   year: 2018--2021
     - course: B.Eng. in Computer Science & Technology
       # institution: Beijing Info. Sci. & Tech. University
       institution: Beijing Information Science & Technology University
