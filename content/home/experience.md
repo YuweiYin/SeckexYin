@@ -23,18 +23,32 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
+  - title: 'Graduate Research Assistant & Teaching Assistant'
+    company: 'The University of British Columbia'
+    company_url: 'https://www.ubc.ca/'
+    company_logo: logo_ubc
+    location: 'Vancouver, BC, Canada'
+    date_start: '2023-09-01'
+    #date_end: '2025-06-30'
+    date_end: ''
+    description: |2-
+      * Affiliation: UBC NLP Group, Department of Computer Science, Faculty of Science
+      * Position: Graduate Research Assistant & Teaching Assistant (Full-time, Hybrid, Paid)
+      * Duty: Conducting research on natural language processing; TA in UBC CS courses.
+  #    * Supervisor: Giuseppe Carenini.
+
   - title: 'Research Assistant'
-    company: 'University of Hong Kong'
+    company: 'The University of Hong Kong'
     company_url: 'https://www.hku.hk/'
     company_logo: logo_hku
     location: 'Pokfulam, Hong Kong'
     date_start: '2022-09-15'
-    #date_end: '2023-08-15'
+    date_end: '2023-08-15'
     date_end: ''
     description: |2-
       * Affiliation: HKU NLP Group, Department of Computer Science, Faculty of Engineering
       * Position: Research Assistant (Full-time, Onsite, Paid)
-      * Duty: Conducting research on multimodal natural language processing and FinTech.
+      * Duty: Conducted research on multimodal natural language processing and FinTech.
   #    * Manager: Qi Liu.
 
   - title: 'Research Intern'

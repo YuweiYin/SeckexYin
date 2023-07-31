@@ -17,17 +17,20 @@ role: Researcher in Machine Learning & Natural Language Processing
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: University of Hong Kong
-    url: https://www.hku.hk/
+  - name: The University of British Columbia
+    url: https://www.ubc.ca/
 
 # Short bio (displayed in user profile at end of posts)
-bio: Researcher in Machine Learning & Natural Language Processing
+# bio: Researcher in Machine Learning & Natural Language Processing
+bio: Researcher in AI/NLP
 
 # Interests to show in About widget
 interests:
+  - Artificial General Intelligence
   - Natural Language Processing
   - Multilingualism & Multimodality
-  - Reasoning & Interpretability
+  # - AI Initiative & Free Will
+  # - Reasoning & Interpretability
   # - Computational Linguistics
   # - Natural Language Processing
   # - Multilingual Translation
@@ -39,9 +42,12 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    # - course: MSc & PhD in Computer Science (Course Only)
-    #   institution: Beihang University
-    #   year: 2018--2021
+    - course: M.Sc. in Computer Science
+      institution: The University of British Columbia
+      year: 2023--2025
+    - course: M.Sc. & Ph.D. in Computer Science (Quitted)
+      institution: Beihang University
+      year: 2018--2021
     - course: B.Eng. in Computer Science & Technology
       # institution: Beijing Info. Sci. & Tech. University
       institution: Beijing Information Science & Technology University
@@ -85,8 +91,6 @@ email: ''
 highlight_name: true
 ---
 
-Mr. Yuwei Yin is a natural language processing (NLP) researcher in the HKU NLP Group at the Department of Computer Science, Faculty of Engineering, The University of Hong Kong.
-
-His research interest lies in exploring natural language processing on multilingualism, multimodality, and interpretability. Accordingly, his research goals are mainly three folds: I) to improve the understanding and generating ability of general NLP models; II) to tap the potential of multilingual NLP and multimodal machine learning in a broader scenario; III) to empower NLP models with logical reasoning and make the models more interpretable, understandable, and controllable. ([Blog Page](https://yuweiyin.github.io/))
+Mr. Yuwei Yin is an artificial intelligence (AI) and natural language processing (NLP) researcher in the UBC NLP Group at the Department of Computer Science, Faculty of Science, The University of British Columbia. Currently, his research interest is natural language processing on multilingualism and multimodality. His long-term goal is to build a versatile instant translator of all languages and modalities for breaking language barriers, facilitating communication, and rebuilding the Tower of Babel--gathering the intelligence of us all to achieve something supreme. He is also fascinated with the preliminary idea of free-will programming in order to advance toward artificial general intelligence (AGI). He is open to discussing these interdisciplinary matters with researchers of various backgrounds. ([MISC](https://yuweiyin.github.io/))
 
 {{< icon name="download" pack="fas" >}} {{< staticref "files/pdf/CV-Yuwei_Yin.pdf" "newtab" >}}Curriculum Vitae / Résumé{{< /staticref >}}

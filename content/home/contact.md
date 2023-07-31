@@ -31,17 +31,18 @@ content:
   # phone: 852 6489 0597
   # phone: 86 187 0815 4662
   address:
-    street: University of Hong Kong, Pokfulam Road
+    street: ICICS, 2366 Main Mall
     # city: Hong Kong
-    region: C&W District, Hong Kong
+    region: Vancouver, BC V6T 1Z4
     # postcode: '000000'
-    country: Hong Kong
-    country_code: HK
+    country: Canada
+    country_code: CA
   coordinates:
-    latitude: '22.2831'
-    longitude: '114.1366'
+    latitude: '49.2606'
+    longitude: '-123.2460'
   # directions: Enter Haking Wong Building and take the stairs to Room 335A on Floor 3
-  directions: Room 335A, Floor 3, Haking Wong Building
+  # directions: Room 335A, Floor 3, Haking Wong Building
+  directions: Dept of CS, Faculty of Science, UBC, Vancouver, BC, CA
   office_hours:
     - 'Weekdays 09:00 to 17:00'
   # appointment_url: 'https://calendly.com'
