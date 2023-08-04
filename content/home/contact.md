@@ -30,19 +30,30 @@ content:
   email: seckexyin@gmail.com
   # phone: 852 6489 0597
   # phone: 86 187 0815 4662
+  # address:
+  #   street: ICICS, 2366 Main Mall
+  #   # city: Hong Kong
+  #   region: Vancouver, BC V6T 1Z4
+  #   # postcode: '000000'
+  #   country: Canada
+  #   country_code: CA
   address:
-    street: ICICS, 2366 Main Mall
+    street: Pokfulam
     # city: Hong Kong
-    region: Vancouver, BC V6T 1Z4
+    # region: Central and Western District
     # postcode: '000000'
-    country: Canada
-    country_code: CA
+    country: Hong Kong
+    country_code: HK
+  # coordinates:
+  #   latitude: '49.2606'
+  #   longitude: '-123.2460'
   coordinates:
-    latitude: '49.2606'
-    longitude: '-123.2460'
+    latitude: '22.3202'
+    longitude: '114.2128'
+  # directions: Dept of CS, Faculty of Science, UBC, Vancouver, BC, CA
+  # directions: ICICS, 2366 Main Mall, The University of British Columbia, Vancouver, BC V6T 1Z4, Canada
   # directions: Enter Haking Wong Building and take the stairs to Room 335A on Floor 3
-  # directions: Room 335A, Floor 3, Haking Wong Building
-  directions: Dept of CS, Faculty of Science, UBC, Vancouver, BC, CA
+  directions: Room 335A, Floor 3, Haking Wong Building, HKU, Pokfulam, HK
   office_hours:
     - 'Weekdays 09:00 to 17:00'
   # appointment_url: 'https://calendly.com'
