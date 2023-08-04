@@ -37,13 +37,13 @@ content:
   #   # postcode: '000000'
   #   country: Canada
   #   country_code: CA
-  address:
-    street: Pokfulam
-    # city: Hong Kong
-    # region: Central and Western District
-    # postcode: '000000'
-    country: Hong Kong
-    country_code: HK
+  # address:
+  #   street: Pokfulam
+  #   # city: Hong Kong
+  #   # region: Central and Western District
+  #   # postcode: '000000'
+  #   country: Hong Kong
+  #   country_code: HK
   # coordinates:
   #   latitude: '49.2606'
   #   longitude: '-123.2460'
