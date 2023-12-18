@@ -42,7 +42,7 @@ experience:
     company_url: 'https://www.hku.hk/'
     company_logo: logo_hku
     location: 'Pokfulam, Hong Kong'
-    date_start: '2022-09-15'
+    date_start: '2022-10-21'
     date_end: '2023-12-20'
     description: |2-
       * Affiliation: HKU NLP Group, Department of Computer Science, Faculty of Engineering
