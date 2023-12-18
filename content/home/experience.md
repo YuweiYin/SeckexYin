@@ -44,7 +44,6 @@ experience:
     location: 'Pokfulam, Hong Kong'
     date_start: '2022-09-15'
     date_end: '2023-12-20'
-    date_end: ''
     description: |2-
       * Affiliation: HKU NLP Group, Department of Computer Science, Faculty of Engineering
       * Position: Research Assistant (Full-time, Onsite, Paid)
