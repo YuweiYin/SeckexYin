@@ -17,11 +17,11 @@ superuser: true
 role: Researcher in AI/NLP
 
 # Organizations/Affiliations to show in About widget
-# - name: University of British Columbia
-#   url: https://www.ubc.ca/
+  # - name: University of Hong Kong
+  #   url: https://www.hku.hk/
 organizations:
-  - name: University of Hong Kong
-    url: https://www.hku.hk/
+  - name: University of British Columbia
+    url: https://www.ubc.ca/
 
 # Short bio (displayed in user profile at end of posts)
 # bio: Researcher in Machine Learning & Natural Language Processing
@@ -45,9 +45,9 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    # - course: M.Sc. in Computer Science
-    #   institution: The University of British Columbia
-    #   year: 2023 Incoming
+    - course: M.Sc. in Computer Science
+      institution: The University of British Columbia
+      year: 2024--2026
     # - course: M.Sc. & Ph.D. in Computer Science (Quitted)
     #   institution: Beihang University
     #   year: 2018--2021
@@ -95,9 +95,10 @@ email: ''
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 # {{< icon name="download" pack="fas" >}} {{< staticref "files/pdf/CV-Yuwei_Yin.pdf" "newtab" >}}Curriculum Vitae / Résumé{{< /staticref >}} {{< staticref "files/pdf/CV-Yuwei_Yin-ZH.pdf" "newtab" >}}Chinese CV{{< /staticref >}}
+# Mr. Yuwei Yin is an artificial intelligence (AI) and natural language processing (NLP) researcher in the [HKU NLP Group](https://hkunlp.github.io/) at the Department of Computer Science, Faculty of Engineering, University of Hong Kong. Currently, his research interest is natural language processing on multilingualism (translation) and multimodality (grounding & embodied AI). His long-term goal is to build a versatile instant translator of all languages and modalities for breaking language barriers, facilitating communication, and rebuilding the Tower of Babel--gathering the intelligence of us all to achieve something supreme. He is also fascinated with the preliminary idea of free-will programming in order to advance toward artificial general intelligence (AGI). He is glad to discuss these interdisciplinary matters with researchers of various backgrounds. Feel free to reach out. ([MISC](https://yuweiyin.github.io/))
 # Mr. Yuwei Yin is an artificial intelligence (AI) and natural language processing (NLP) researcher in the [UBC NLP Group](http://nlp.cs.ubc.ca/) at the Department of Computer Science, Faculty of Science, University of British Columbia. Currently, his research interest is natural language processing on multilingualism and multimodality. His long-term goal is to build a versatile instant translator of all languages and modalities for breaking language barriers, facilitating communication, and rebuilding the Tower of Babel--gathering the intelligence of us all to achieve something supreme. He is also fascinated with the preliminary idea of free-will programming in order to advance toward artificial general intelligence (AGI). He is open to discussing these interdisciplinary matters with researchers of various backgrounds. ([MISC](https://yuweiyin.github.io/))
 ---
 
-Mr. Yuwei Yin is an artificial intelligence (AI) and natural language processing (NLP) researcher in the [HKU NLP Group](https://hkunlp.github.io/) at the Department of Computer Science, Faculty of Engineering, University of Hong Kong. Currently, his research interest is natural language processing on multilingualism (translation) and multimodality (grounding & embodied AI). His long-term goal is to build a versatile instant translator of all languages and modalities for breaking language barriers, facilitating communication, and rebuilding the Tower of Babel--gathering the intelligence of us all to achieve something supreme. He is also fascinated with the preliminary idea of free-will programming in order to advance toward artificial general intelligence (AGI). He is glad to discuss these interdisciplinary matters with researchers of various backgrounds. Feel free to reach out. ([MISC](https://yuweiyin.github.io/))
+Mr. Yuwei Yin is an artificial intelligence (AI) and natural language processing (NLP) researcher in the [UBC NLP Group](http://nlp.cs.ubc.ca/) at the Department of Computer Science, Faculty of Science, University of British Columbia. Currently, his research interest is natural language processing on multilingualism (translation) and multimodality (grounding & embodied AI). His long-term goal is to build a versatile instant translator of all languages and modalities for breaking language barriers, facilitating communication, and rebuilding the Tower of Babel--gathering the intelligence of us all to achieve something supreme. He is also fascinated with the preliminary idea of free-will programming in order to advance toward artificial general intelligence (AGI). He is glad to discuss these interdisciplinary matters with researchers of various backgrounds. Feel free to reach out. ([MISC](https://yuweiyin.github.io/))
 
 {{< icon name="download" pack="fas" >}} {{< staticref "files/pdf/CV-Yuwei_Yin.pdf" "newtab" >}}Curriculum Vitae{{< /staticref >}}  /  {{< staticref "files/pdf/CV-Yuwei_Yin-ZH.pdf" "newtab" >}}中文简历{{< /staticref >}}
