@@ -34,7 +34,7 @@ content:
   #   street: ICICS, 2366 Main Mall
   #   # city: Hong Kong
   #   region: Vancouver, BC V6T 1Z4
-  #   # postcode: '000000'
+  #   # postcode: 'V6T 1Z4'
   #   country: Canada
   #   country_code: CA
   # address:
@@ -48,12 +48,12 @@ content:
   #   latitude: '49.2606'
   #   longitude: '-123.2460'
   coordinates:
-    latitude: '22.3202'
-    longitude: '114.2128'
+    latitude: '49.473'
+    longitude: '-122.813'
   # directions: Dept of CS, Faculty of Science, UBC, Vancouver, BC, CA
   # directions: ICICS, 2366 Main Mall, The University of British Columbia, Vancouver, BC V6T 1Z4, Canada
   # directions: Enter Haking Wong Building and take the stairs to Room 335A on Floor 3
-  directions: Room 335A, Floor 3, Haking Wong Building, HKU, Pokfulam, HK
+  directions: Room 201, ICICS/CS Building, 2366 Main Mall, Vancouver, BC Canada V6T 1Z4
   office_hours:
     - 'Weekdays 09:00 to 17:00'
   # appointment_url: 'https://calendly.com'
