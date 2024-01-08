@@ -53,7 +53,7 @@ content:
   # directions: Dept of CS, Faculty of Science, UBC, Vancouver, BC, CA
   # directions: ICICS, 2366 Main Mall, The University of British Columbia, Vancouver, BC V6T 1Z4, Canada
   # directions: Enter Haking Wong Building and take the stairs to Room 335A on Floor 3
-  directions: Room 201, ICICS/CS Building, 2366 Main Mall, Vancouver, BC Canada V6T 1Z4
+  directions: Room X460, ICICS Building, 2366 Main Mall, Vancouver, BC V6T 1Z4, Canada
   office_hours:
     - 'Weekdays 09:00 to 17:00'
   # appointment_url: 'https://calendly.com'
