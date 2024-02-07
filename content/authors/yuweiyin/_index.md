@@ -31,7 +31,7 @@ bio: Researcher in AI/NLP
 interests:
   - Intelligence & Linguistics
   - Neuroscience & Metaphysics
-  - Astrophysics & Cosmology
+  - Cosmology & Astrophysics
   # - Artificial General Intelligence
   # - Natural Language Processing
   # - Multilingualism & Multimodality
