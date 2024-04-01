@@ -15,7 +15,8 @@ superuser: true
 # Natural Language Processing
 # role: Researcher in Machine Learning & Natural Language Processing
 # role: Temet Nosce
-role: Truth Seeker
+# role: Truth Seeker
+role: Adventurer | Seeker
 
 # Organizations/Affiliations to show in About widget
   # - name: University of Hong Kong
@@ -26,7 +27,9 @@ organizations:
 
 # Short bio (displayed in user profile at end of posts)
 # bio: Researcher in Machine Learning & Natural Language Processing
-bio: Truth Seeker
+# bio: Truth Seeker
+# bio: Temet Nosce
+bio: Adventurer | Seeker
 
 # Interests to show in About widget
 interests:
