@@ -53,13 +53,13 @@ featured: false
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'https://arxiv.org/pdf/2403.17556.pdf'
+url_pdf: 'https://aclanthology.org/2024.lrec-main.948.pdf'
 url_code: ''
 url_dataset: 'https://huggingface.co/datasets/CSJianYang/InstrMulti102'
 url_poster: ''
 url_project: ''
 url_slides: ''
-url_source: 'https://arxiv.org/abs/2403.17556'
+url_source: 'https://aclanthology.org/2024.lrec-main.948/'
 url_video: ''
 
 # Featured image
@@ -108,11 +108,11 @@ MathJax = {
 };
 </script>
 
-![picture](https://yuweiyin.com/files/img/2023-07-10-ACL-GanLM.png)
+![picture](https://yuweiyin.com/files/img/2024-05-20-COLING-m3P.png)
 
 ```bibtex
 @inproceedings{m3P,
-    title = "m3P: Towards Multimodal Multilingual Translation with Multimodal Prompt",
+    title = "m3{P}: Towards Multimodal Multilingual Translation with Multimodal Prompt",
     author = "Yang, Jian  and
       Guo, Hongcheng  and
       Yin, Yuwei  and
@@ -120,14 +120,15 @@ MathJax = {
       Wang, Bing  and
       Liu, Jiaheng  and
       Liang, Xinnian  and
-      Chai, Linzheng  and
+      Chai, LinZheng  and
       Yang, Liqun  and
       Li, Zhoujun",
-    booktitle = "The 2024 Joint International Conference on Computational Linguistics, Language Resources and Evaluation",
-    month = may,
+    booktitle = "Proceedings of the 2024 Joint International Conference on Computational Linguistics, Language Resources and Evaluation (LREC-COLING 2024)",
+    month = "may",
     year = "2024",
-    address = "Torino, Italy",
-    publisher = "Association for Computational Linguistics",
-    url = "https://arxiv.org/abs/2403.17556",
+    address = "Torino, Italia",
+    publisher = "ELRA and ICCL",
+    url = "https://aclanthology.org/2024.lrec-main.948",
+    pages = "10858--10871",
 }
 ```
