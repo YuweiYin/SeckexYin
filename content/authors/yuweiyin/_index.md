@@ -14,10 +14,11 @@ superuser: true
 # Computational Linguistics
 # Natural Language Processing
 # role: Researcher in Machine Learning & Natural Language Processing
+role: NLP Researcher
 # role: Temet Nosce
 # role: Truth Seeker
 # role: Adventurer | Seeker
-role: PhD student at UBC CS
+# role: PhD student at UBC CS
 
 # Organizations/Affiliations to show in About widget
   # - name: University of Hong Kong
