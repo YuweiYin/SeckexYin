@@ -31,7 +31,8 @@ organizations:
 # bio: Researcher in Machine Learning & Natural Language Processing
 # bio: Truth Seeker
 # bio: Temet Nosce
-bio: Adventurer | Seeker
+# bio: Adventurer | Seeker
+bio: NLP Researcher
 
 # Interests to show in About widget
 interests:
