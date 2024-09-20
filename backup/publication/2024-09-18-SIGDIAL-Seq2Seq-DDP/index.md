@@ -52,7 +52,7 @@ url_dataset: ''
 url_poster: ''
 url_project: ''
 url_slides: ''
-url_source: 'https://aclanthology.org/2024.sigdial-1.1'
+url_source: 'https://aclanthology.org/2024.sigdial-1.1/'
 url_video: ''
 
 # Featured image
