@@ -44,4 +44,6 @@ design:
 # {{< icon name="graduation-cap" pack="fas" >}} [Google Scholar](https://scholar.google.com/citations?user=DPAmfKEAAAAJ&hl=en&sortby=pubdate)
 ---
 
+{{% callout note %}}
 {{< icon name="graduation-cap" pack="fas" >}} [Google Scholar](https://scholar.google.com/citations?user=DPAmfKEAAAAJ&hl=en&sortby=pubdate)
+{{% /callout %}}
