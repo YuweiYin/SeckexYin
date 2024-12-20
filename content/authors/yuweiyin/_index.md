@@ -14,7 +14,8 @@ superuser: true
 # Computational Linguistics
 # Natural Language Processing
 # role: Researcher in Machine Learning & Natural Language Processing
-role: NLP Researcher
+# role: NLP Researcher
+role: PhD in CS/AI/NLP
 # role: Temet Nosce
 # role: Truth Seeker
 # role: Adventurer | Seeker
@@ -32,7 +33,8 @@ organizations:
 # bio: Truth Seeker
 # bio: Temet Nosce
 # bio: Adventurer | Seeker
-bio: NLP Researcher
+# bio: NLP Researcher
+bio: PhD in CS/AI/NLP
 
 # Interests to show in About widget
 interests:
@@ -58,9 +60,12 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    - course: M.Sc. in Computer Science
+    - course: Ph.D. in Computer Science
       institution: The University of British Columbia
       year: 2024--Present
+    # - course: M.Sc. in Computer Science
+    #   institution: The University of British Columbia
+    #   year: 2024--2025
     # - course: M.Sc. & Ph.D. in Computer Science (Quitted)
     #   institution: Beihang University
     #   year: 2018--2021
@@ -117,6 +122,6 @@ highlight_name: true
 # {{< icon name="download" pack="fas" >}} {{< staticref "files/pdf/Resume-Yuwei_Yin.pdf" "newtab" >}}Résumé{{< /staticref >}}  /  {{< staticref "files/pdf/Resume-Yuwei_Yin-ZH.pdf" "newtab" >}}中文简历{{< /staticref >}}
 ---
 
-Mr. Yuwei Yin is a graduate student in the [UBC NLP Group](http://nlp.cs.ubc.ca/) at the Department of Computer Science, Faculty of Science, University of British Columbia. {{< icon name="link" pack="fas" >}} [MISC](https://yuweiyin.github.io/)
+Mr. Yuwei Yin is a PhD student in the [UBC NLP Group](http://nlp.cs.ubc.ca/) at the Department of Computer Science, Faculty of Science, University of British Columbia. {{< icon name="link" pack="fas" >}} [MISC](https://yuweiyin.github.io/)
 
 {{< icon name="download" pack="fas" >}} {{< staticref "files/pdf/Resume-Yuwei_Yin.pdf" "newtab" >}}Résumé{{< /staticref >}} 
