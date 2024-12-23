@@ -86,24 +86,24 @@ social:
   - icon: envelope
     icon_pack: fas
     link: '/#contact'
-  - icon: download
+  - icon: user-astronaut
     icon_pack: fas
-    link: '/files/pdf/Resume-Yuwei_Yin.pdf'
+    link: https://www.yuweiyin.com/files/pdf/Resume-Yuwei_Yin.pdf
   - icon: link
     icon_pack: fas
     link: https://yuweiyin.github.io/
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/SeckexYIN
-    # label: Follow me on Twitter
-    # display:
-    #   header: true
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/yuwei-yin/
   - icon: github
     icon_pack: fab
     link: https://github.com/YuweiYin
+  - icon: twitter
+    icon_pack: fab
+    link: https://twitter.com/SeckexYIN
+    # label: Follow me on Twitter
+    # display:
+    #   header: true
   - icon: graduation-cap # `graduation-cap` `google-scholar` icon from `ai` icon pack
     icon_pack: fas
     link: https://scholar.google.com/citations?user=DPAmfKEAAAAJ&hl=en&sortby=pubdate
