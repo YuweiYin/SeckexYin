@@ -86,12 +86,12 @@ social:
   - icon: envelope
     icon_pack: fas
     link: '/#contact'
-  - icon: user-astronaut
-    icon_pack: fas
-    link: https://www.yuweiyin.com/files/pdf/Resume-Yuwei_Yin.pdf
   - icon: link
     icon_pack: fas
     link: https://yuweiyin.github.io/
+  - icon: user-astronaut
+    icon_pack: fas
+    link: https://www.yuweiyin.com/files/pdf/Resume-Yuwei_Yin.pdf
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/yuwei-yin/
@@ -126,11 +126,9 @@ highlight_name: true
 # Mr. Yuwei Yin is an AI researcher in the [UBC NLP Group](http://nlp.cs.ubc.ca/) at the Department of Computer Science, Faculty of Science, University of British Columbia. Currently, his research interest is natural language processing on multilingualism (translation), multimodality (vision-language), and embodied AI (grounding + reasoning). His long-term goal is to empower AI with a brain on par with human intelligence (if it exists). Feel free to reach out. ([MISC](https://yuweiyin.github.io/))
 # Mr. Yuwei Yin is a graduate student in the [UBC NLP Group](http://nlp.cs.ubc.ca/) at the Department of Computer Science, Faculty of Science, University of British Columbia. Currently, his research interest is to realize automatic natural language understanding by delving into multilingual (breaking the language barrier), multimodal (exploring the universal representation), and embodied AI (building the world model), focusing on human understanding and language acquisition mechanisms with the help of interdisciplinary clues from linguistics, psychology, cognitive science, neuroscience, biology, and more. His long-term goal is to empower AI with a brain on par with human intelligence (if it exists) and let AI, as a tool or interface, enable people to know human beings better and explore the magnificent universe. Feel free to reach out. ([MISC](https://yuweiyin.github.io/))
 # Mr. Yuwei Yin is a graduate student in the [UBC NLP Group](http://nlp.cs.ubc.ca/) at the Department of Computer Science, Faculty of Science, University of British Columbia. Currently, his research interest is to realize automatic natural language understanding by focusing on human cognition and language acquisition mechanisms with the help of interdisciplinary clues from linguistics, psychology, cognitive science, neuroscience, biology, and more. His long-term goal is to empower AI with a brain on par with human intelligence (if it exists) and let AI, as a tool or interface, enable people to know human beings better and explore the magnificent universe. Feel free to reach out. ([MISC](https://yuweiyin.github.io/))
-# {{< icon name="download" pack="fas" >}} {{< staticref "files/pdf/CV-Yuwei_Yin.pdf" "newtab" >}}Curriculum Vitae{{< /staticref >}}  /  {{< staticref "files/pdf/CV-Yuwei_Yin-ZH.pdf" "newtab" >}}中文简历{{< /staticref >}}
-# {{< icon name="download" pack="fas" >}} {{< staticref "files/pdf/Resume-Yuwei_Yin.pdf" "newtab" >}}Résumé{{< /staticref >}}  /  {{< staticref "files/pdf/Resume-Yuwei_Yin-ZH.pdf" "newtab" >}}中文简历{{< /staticref >}}
 # Mr. Yuwei Yin is a PhD student in the [UBC NLP Group](http://nlp.cs.ubc.ca/) at the Department of Computer Science, Faculty of Science, University of British Columbia (Vancouver, BC, Canada). {{< icon name="link" pack="fas" >}} [MISC](https://yuweiyin.github.io/)
 # Yuwei is a PhD student in the [UBC NLP Group](http://nlp.cs.ubc.ca/) at the Department of Computer Science, University of British Columbia (Vancouver, BC, Canada). {{< icon name="link" pack="fas" >}} [MISC](https://yuweiyin.github.io/)
 # {{< icon name="download" pack="fas" >}} {{< staticref "files/pdf/Resume-Yuwei_Yin.pdf" "newtab" >}}Résumé{{< /staticref >}} 
 ---
 
-Yuwei is a PhD student in the [UBC NLP Group](http://nlp.cs.ubc.ca/) at the Department of Computer Science, University of British Columbia (Vancouver :canada:).
+Yuwei is a PhD student in the [UBC NLP Group](http://nlp.cs.ubc.ca/) at the Department of Computer Science, University of British Columbia (Vancouver :canada:). {{< staticref "files/pdf/Resume-Yuwei_Yin.pdf" "newtab" >}}Résumé{{< /staticref >}}
