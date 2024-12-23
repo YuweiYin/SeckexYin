@@ -86,7 +86,7 @@ social:
   - icon: envelope
     icon_pack: fas
     link: '/#contact'
-  - icon: file-pdf
+  - icon: download
     icon_pack: fas
     link: '/files/pdf/Resume-Yuwei_Yin.pdf'
   - icon: link
@@ -133,4 +133,4 @@ highlight_name: true
 # {{< icon name="download" pack="fas" >}} {{< staticref "files/pdf/Resume-Yuwei_Yin.pdf" "newtab" >}}Résumé{{< /staticref >}} 
 ---
 
-Yuwei is a PhD student in the [UBC NLP Group](http://nlp.cs.ubc.ca/) at the Department of Computer Science, University of British Columbia (Vancouver, BC, Canada).
+Yuwei is a PhD student in the [UBC NLP Group](http://nlp.cs.ubc.ca/) at the Department of Computer Science, University of British Columbia (Vancouver :canada:).
