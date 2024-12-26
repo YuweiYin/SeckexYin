@@ -26,10 +26,10 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
-  - certificate_url: 'https://2024.sigdial.org/award/'
+  - certificate_url: ''
     date_end: ''
     date_start: '2024-09-20'
-    description: 'https://aclanthology.org/2024.sigdial-1.1/'
+    description: ''
     organization: 'SIGDIAL 2024'
     organization_url: 'https://2024.sigdial.org/'
     title: 'SIGDIAL 2024 Best Paper Award'
