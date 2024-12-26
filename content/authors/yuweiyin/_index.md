@@ -15,7 +15,7 @@ superuser: true
 # Natural Language Processing
 # role: Researcher in Machine Learning & Natural Language Processing
 # role: NLP Researcher
-role: PhD in CS/AI/NLP
+role: PhD in CS/AI/NLP at UBC
 # role: Temet Nosce
 # role: Truth Seeker
 # role: Adventurer | Seeker
@@ -34,7 +34,7 @@ organizations:
 # bio: Temet Nosce
 # bio: Adventurer | Seeker
 # bio: NLP Researcher
-bio: PhD in CS/AI/NLP
+bio: PhD in CS/AI/NLP at UBC
 
 # Interests to show in About widget
 interests:
@@ -130,4 +130,4 @@ highlight_name: true
 # Yuwei is a PhD student in the [UBC NLP Group](http://nlp.cs.ubc.ca/) at the Department of Computer Science, University of British Columbia (Vancouver, BC, Canada). {{< icon name="link" pack="fas" >}} [MISC](https://yuweiyin.github.io/)
 ---
 
-Yuwei is a PhD student in the [UBC NLP Group](http://nlp.cs.ubc.ca/) at the Department of Computer Science, University of British Columbia (Vancouver :canada:). {{< icon name="download" pack="fas" >}} {{< staticref "files/pdf/Resume-Yuwei_Yin.pdf" "newtab" >}}Résumé{{< /staticref >}}
+Yuwei is a PhD student in the [UBC NLP Group](http://nlp.cs.ubc.ca/) at the Department of Computer Science, University of British Columbia (Vancouver :canada:). His recent research primarily centers on natural language processing (NLP), generative AI, and multimodality, with a focus on logical thinking and reasoning abilities in AI systems, particularly those based on pre-trained foundation models like large language models (LLMs). {{< icon name="user-astronaut" pack="fas" >}} {{< staticref "files/pdf/Resume-Yuwei_Yin.pdf" "newtab" >}}Résumé{{< /staticref >}}
