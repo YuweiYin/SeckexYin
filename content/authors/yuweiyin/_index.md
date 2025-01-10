@@ -104,6 +104,9 @@ social:
     # label: Follow me on Twitter
     # display:
     #   header: true
+  - icon: bluesky
+    icon_pack: fab
+    link: https://bsky.app/profile/yuweiyin.bsky.social
   - icon: graduation-cap # `graduation-cap` `google-scholar` icon from `ai` icon pack
     icon_pack: fas
     link: https://scholar.google.com/citations?user=DPAmfKEAAAAJ&hl=en&sortby=pubdate
