@@ -38,11 +38,12 @@ design:
   columns: '2'
 
 # {{< icon name="graduation-cap" pack="fas" >}} [Google Scholar](https://scholar.google.com/citations?user=DPAmfKEAAAAJ&hl=en&sortby=pubdate)
+# {{% callout note %}}
+# Search publications by [filtering](./publication/).
+# {{% /callout %}}
 
 ---
 
-{{< icon name="graduation-cap" pack="fas" >}}{{< staticref "https://scholar.google.com/citations?user=DPAmfKEAAAAJ&hl=en&sortby=pubdate" "newtab" >}}Google Scholar{{< /staticref >}}
-
 {{% callout note %}}
-Search publications by [filtering](./publication/).
+{{< icon name="graduation-cap" pack="fas" >}}{{< staticref "https://scholar.google.com/citations?user=DPAmfKEAAAAJ&hl=en&sortby=pubdate" "newtab" >}}Google Scholar{{< /staticref >}}
 {{% /callout %}}
