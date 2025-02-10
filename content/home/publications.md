@@ -35,7 +35,7 @@ content:
 design:
   # Choose a view for the listings:
   view: citation
-  columns: '2'
+  columns: '1'
 
 # {{< icon name="graduation-cap" pack="fas" >}} [Google Scholar](https://scholar.google.com/citations?user=DPAmfKEAAAAJ&hl=en&sortby=pubdate)
 # {{% callout note %}}
