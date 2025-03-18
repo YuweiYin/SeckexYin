@@ -50,7 +50,7 @@ url_code: 'https://github.com/YuweiYin/ARR'
 url_dataset: ''
 url_poster: ''
 url_project: ''
-url_slides: ''
+url_slides: 'https://www.cs.ubc.ca/~yuweiyin/joey/research/arr/ARR_slides.pdf'
 url_source: 'https://arxiv.org/abs/2502.04689'
 url_video: ''
 
