@@ -57,7 +57,7 @@ content:
   office_hours:
     - 'Weekdays 09:00 to 17:00'
   # appointment_url: 'https://calendly.com'
-  appointment_url: 'https://yuweiyin.github.io/calendar/'
+  # appointment_url: 'https://yuweiyin.github.io/calendar/'
   # contact_links:
   #   - icon: twitter
   #     icon_pack: fab
