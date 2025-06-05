@@ -28,6 +28,13 @@ date_format: Jan 2006
 item:
   - certificate_url: ''
     date_end: ''
+    date_start: '2025-05-27'
+    description: ''
+    organization: 'UBC Computer Science'
+    organization_url: 'https://www.cs.ubc.ca/'
+    title: 'Graduate Teaching Assistant Award'
+  - certificate_url: ''
+    date_end: ''
     date_start: '2024-09-20'
     description: ''
     organization: 'SIGDIAL 2024'
