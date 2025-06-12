@@ -32,7 +32,7 @@ item:
     description: ''
     organization: 'UBC Computer Science'
     organization_url: 'https://www.cs.ubc.ca/'
-    title: 'Graduate Teaching Assistant Award'
+    title: 'Graduate Teaching Assistant Award of Year 2024'
   - certificate_url: ''
     date_end: ''
     date_start: '2024-09-20'
