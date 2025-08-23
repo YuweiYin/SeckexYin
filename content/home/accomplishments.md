@@ -46,7 +46,7 @@ item:
     description: ''
     organization: 'Microsoft Research (Asia)'
     organization_url: 'https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/'
-    title: 'Award of Excellence in Starts of Tomorrow Internship Program'
+    title: 'Award of Excellence in Stars of Tomorrow Internship Program'
     url: ''
   - certificate_url: 
     date_end: ''
