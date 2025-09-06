@@ -101,7 +101,7 @@ MathJax = {
 };
 </script>
 
-![picture](https://yuweiyin.com/files/img/2025-03-27-SWI.png)
+![picture](https://yuweiyin.com/files/img/2025-03-27-SWI.jpg)
 
 ```bibtex
 @article{yin2025swi,
