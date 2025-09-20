@@ -98,9 +98,12 @@ social:
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/yuwei-yin/
-  - icon: user-astronaut
-    icon_pack: fas
-    link: https://www.yuweiyin.com/files/pdf/Resume-Yuwei_Yin.pdf
+  # - icon: user-astronaut
+  #   icon_pack: fas
+  #   link: https://www.yuweiyin.com/files/pdf/Resume-Yuwei_Yin.pdf
+  - icon: cv
+    icon_pack: ai
+    link: https://www.yuweiyin.com/files/pdf/CV-Yuwei_Yin.pdf
   - icon: github
     icon_pack: fab
     link: https://github.com/YuweiYin
