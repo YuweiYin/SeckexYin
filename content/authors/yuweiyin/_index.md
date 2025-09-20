@@ -15,7 +15,8 @@ superuser: true
 # Natural Language Processing
 # role: Researcher in Machine Learning & Natural Language Processing
 # role: NLP Researcher
-role: PhD in CS/AI/NLP at UBC
+# role: PhD in CS/AI/NLP at UBC
+role: CS PhD at UBC
 # role: Temet Nosce
 # role: Truth Seeker
 # role: Adventurer | Seeker
@@ -34,7 +35,8 @@ organizations:
 # bio: Temet Nosce
 # bio: Adventurer | Seeker
 # bio: NLP Researcher
-bio: PhD in CS/AI/NLP at UBC
+# bio: PhD in CS/AI/NLP at UBC
+bio: CS PhD at UBC
 
 # Interests to show in About widget
 interests:
@@ -92,18 +94,21 @@ social:
     icon_pack: fas
     link: 'mailto:yuweiyin@cs.ubc.ca'
     # link: '/#contact'
-  - icon: link
-    icon_pack: fas
-    link: https://yuweiyin.github.io/
+  # - icon: link
+  #   icon_pack: fas
+  #   link: https://yuweiyin.github.io/
+  - icon: cv
+    icon_pack: ai
+    link: https://www.yuweiyin.com/files/pdf/CV-Yuwei_Yin.pdf
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/yuwei-yin/
   # - icon: user-astronaut
   #   icon_pack: fas
   #   link: https://www.yuweiyin.com/files/pdf/Resume-Yuwei_Yin.pdf
-  - icon: cv
-    icon_pack: ai
-    link: https://www.yuweiyin.com/files/pdf/CV-Yuwei_Yin.pdf
+  # - icon: cv
+  #   icon_pack: ai
+  #   link: https://www.yuweiyin.com/files/pdf/CV-Yuwei_Yin.pdf
   - icon: github
     icon_pack: fab
     link: https://github.com/YuweiYin
