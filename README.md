@@ -1,3 +1,3 @@
-# Academic Homepage of Yuwei Yin
+# Yuwei Yin
 
 * https://yuweiyin.com
