@@ -14,3 +14,5 @@ go.sum
 
 # Local Netlify folder
 .netlify
+
+backup/

@@ -1,34 +1,49 @@
-name = "Typo"
+name = "Academic"
 license = "MIT"
-licenselink = "https://github.com/tomfran/typo/blob/main/LICENSE"
-description = "A simple Hugo theme"
-homepage = "https://github.com/tomfran/typo"
-demosite = "https://tomfran.github.io/"
-
-tags = [
-    "responsive",
-    "simple",
-    "clean",
-    "light",
-    "dark",
-    "blog",
-    "minimal",
-    "personal",
-    "portfolio",
-]
-
-features = [
-    "responsive",
-    "blog",
-    "table-of-contents",
-    "highlight.js",
-    "favicon",
-    "social-icons",
-    "minified-assets",
-    "dark-light-images",
-    "color-palettes",
-]
+licenselink = "https://github.com/wowchemy/starter-hugo-academic/blob/master/LICENSE.md"
+description = "Netlify Hugo"
+homepage = "https://github.com/wowchemy/starter-hugo-academic/"
+demosite = "https://wowchemy.com/hugo-themes/"
+tags = ["widgets",
+        "resume",
+        "portfolio",
+        "responsive",
+        "clean",
+        "personal",
+        "company",
+        "blog",
+        "minimal",
+        "light",
+        "dark",
+        "multilingual",
+        "documentation",
+        "landing page",
+        "projects",
+        "single page",
+        "contact form",
+        "mobile",
+        "gallery",
+        "search",
+        "presentation",
+        "simple",
+        "minimalist",
+        "starter",
+        "modern",
+        "one page",
+        "customizable",
+        "technical",
+        "product",
+        "slide"
+        ]
+features = ["page builder", "widgets", "themes", "search", "research publication system", "filterable portfolio",
+            "blog", "create courses", "talks", "events", "slides", "gallery", "contact form"]
 
 [author]
-name = "Yuwei Yin"
-homepage = "https://www.yuweiyin.com"
+  name = "Yuwei Yin"
+  homepage = "https://www.yuweiyin.com"
+
+# If porting an existing theme
+[original]
+  name = ""
+  homepage = ""
+  repo = ""

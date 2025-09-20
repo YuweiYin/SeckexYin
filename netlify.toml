@@ -1,14 +1,21 @@
-[build.environment]
-  DART_SASS_VERSION = "1.92.1"
-  GO_VERSION = "1.25.1"
-  HUGO_VERSION = "0.150.0"
-  NODE_VERSION = "22.18.0"
-  TZ = "Europe/Oslo"
-
 [build]
+  command = "hugo --gc --minify -b $URL"
   publish = "public"
-  command = "hugo"
-  # command = """\
-  #   git config core.quotepath false && \
-  #   hugo --gc --minify --baseURL "${URL}"
-  #   """
+
+[build.environment]
+  HUGO_VERSION = "0.97.3"
+  HUGO_ENABLEGITINFO = "true"
+
+[context.production.environment]
+  HUGO_ENV = "production"
+
+[context.deploy-preview]
+  command = "hugo --gc --minify --buildFuture -b $DEPLOY_PRIME_URL"
+
+[context.branch-deploy]
+  command = "hugo --gc --minify -b $DEPLOY_PRIME_URL"
+
+[[plugins]]
+  package = "netlify-plugin-hugo-cache-resources"
+  [plugins.inputs]
+    debug = true
