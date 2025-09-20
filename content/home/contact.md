@@ -27,7 +27,8 @@ content:
 
   # Contact details (edit or remove options as required)
   # email: seckexyin@gmail.com  yuwei_yin@163.com
-  email: seckexyin@gmail.com
+  # email: seckexyin@gmail.com
+  email: yuweiyin@cs.ubc.ca
   # phone: 852 6489 0597
   # phone: 86 187 0815 4662
   # address:
@@ -54,8 +55,8 @@ content:
   # directions: ICICS, 2366 Main Mall, The University of British Columbia, Vancouver, BC V6T 1Z4, Canada
   # directions: Enter Haking Wong Building and take the stairs to Room 335A on Floor 3
   directions: Room X460, ICICS Building, 2366 Main Mall, Vancouver, BC V6T 1Z4, Canada
-  office_hours:
-    - 'Weekdays 09:00 to 17:00'
+  # office_hours:
+  #   - 'Weekdays 09:00 to 17:00'
   # appointment_url: 'https://calendly.com'
   # appointment_url: 'https://yuweiyin.github.io/calendar/'
   # contact_links:

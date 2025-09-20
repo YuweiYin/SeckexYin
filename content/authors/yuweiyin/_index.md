@@ -39,9 +39,13 @@ bio: PhD in CS/AI/NLP at UBC
 # Interests to show in About widget
 interests:
   - Intelligence & Linguistics
-  - Generative AI & Multimodality
-  - Philosophy & Psychology
-  - Cosmology & Astrophysics
+  - Generative AI & Embodied AI
+  - Multimodality & Multilinguality
+  - Computational Cognitive Science
+  # - Intelligence & Linguistics
+  # - Generative AI & Multimodality
+  # - Philosophy & Psychology
+  # - Cosmology & Astrophysics
   # - Neuroscience & Metaphysics
   # - Artificial General Intelligence
   # - Natural Language Processing
@@ -86,7 +90,8 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: '/#contact'
+    link: 'mailto:yuweiyin@cs.ubc.ca'
+    # link: '/#contact'
   - icon: link
     icon_pack: fas
     link: https://yuweiyin.github.io/
@@ -128,6 +133,9 @@ highlight_name: true
 # {{< icon name="download" pack="fas" >}} {{< staticref "files/pdf/CV-Yuwei_Yin.pdf" "newtab" >}}Curriculum Vitae / Résumé{{< /staticref >}} {{< staticref "files/pdf/CV-Yuwei_Yin-ZH.pdf" "newtab" >}}Chinese CV{{< /staticref >}}
 # Yuwei is a PhD student in the [UBC NLP Group](http://nlp.cs.ubc.ca/) at the Department of Computer Science, University of British Columbia (Vancouver, BC, Canada). {{< icon name="link" pack="fas" >}} [MISC](https://yuweiyin.github.io/)
 # Yuwei is a PhD student in the [UBC NLP Group](http://nlp.cs.ubc.ca/) at the Department of Computer Science, University of British Columbia (Vancouver :canada:). His research primarily centers on natural language processing (NLP), generative AI, and multimodality, with a current focus on logical thinking and reasoning abilities in AI systems, particularly those based on pre-trained foundation models like large language models (LLMs). {{< icon name="user-astronaut" pack="fas" >}}{{< staticref "files/pdf/Resume-Yuwei_Yin.pdf" "newtab" >}}Résumé{{< /staticref >}}
+
+# Yuwei is a PhD student in the [UBC NLP Group](http://nlp.cs.ubc.ca/) at the Department of Computer Science, University of British Columbia (Vancouver :canada:). His research primarily centers on natural language processing (NLP), generative AI, and multimodality, with a current focus on mindful thinking and logical reasoning in AI systems. {{< icon name="user-astronaut" pack="fas" >}}{{< staticref "files/pdf/Resume-Yuwei_Yin.pdf" "newtab" >}}Résumé{{< /staticref >}}
+
 ---
 
-Yuwei is a PhD student in the [UBC NLP Group](http://nlp.cs.ubc.ca/) at the Department of Computer Science, University of British Columbia (Vancouver :canada:). His research primarily centers on natural language processing (NLP), generative AI, and multimodality, with a current focus on mindful thinking and logical reasoning in AI systems. {{< icon name="user-astronaut" pack="fas" >}}{{< staticref "files/pdf/Resume-Yuwei_Yin.pdf" "newtab" >}}Résumé{{< /staticref >}}
+Yuwei is a PhD student in the [UBC NLP Group](http://nlp.cs.ubc.ca/) at the Department of Computer Science, University of British Columbia (Vancouver :canada:). His research primarily centers on artificial intelligence (AI) and natural language processing (NLP), with a current focus on mindful thinking and logical reasoning in AI systems.
