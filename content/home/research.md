@@ -45,6 +45,6 @@ design:
 
 # {{< icon name="graduation-cap" pack="fas" >}}{{< staticref "https://scholar.google.com/citations?user=DPAmfKEAAAAJ&hl=en&sortby=pubdate" "newtab" >}}Google Scholar{{< /staticref >}}
 
-{{< icon name="graduation-cap" pack="fas" >}}{{< staticref "https://scholar.google.com/citations?user=DPAmfKEAAAAJ&hl=en&sortby=pubdate" "newtab" >}}Full Paper List{{< /staticref >}}
-
 ---
+
+{{< icon name="graduation-cap" pack="fas" >}}{{< staticref "https://scholar.google.com/citations?user=DPAmfKEAAAAJ&hl=en&sortby=pubdate" "newtab" >}}Full Paper List{{< /staticref >}}
