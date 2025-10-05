@@ -112,16 +112,19 @@ social:
   - icon: github
     icon_pack: fab
     link: https://github.com/YuweiYin
+  - icon: orcid
+    icon_pack: fab
+    link: https://orcid.org/0000-0002-5022-6468
+  - icon: bluesky
+    icon_pack: fab
+    link: https://bsky.app/profile/yuweiyin.bsky.social
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/SeckexYIN
     # label: Follow me on Twitter
     # display:
     #   header: true
-  # - icon: bluesky
-  #   icon_pack: fab
-  #   link: https://bsky.app/profile/yuweiyin.bsky.social
-  - icon: graduation-cap # `graduation-cap` `google-scholar` icon from `ai` icon pack
+  - icon: google-scholar # `graduation-cap` `google-scholar` icon from `ai` icon pack
     icon_pack: fas
     link: https://scholar.google.com/citations?user=DPAmfKEAAAAJ&hl=en&sortby=pubdate
     # link: https://scholar.google.com/citations?user=DPAmfKEAAAAJ
