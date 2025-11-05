@@ -14,11 +14,11 @@ authors:
 #   - 'Equal contribution'
 #   - 'Equal contribution'
 
-date: '2025-03-27T00:00:00Z'
+date: '2025-10-29T00:00:00Z'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2025-03-27T00:00:00Z'
+publishDate: '2025-10-29T00:00:00Z'
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -46,19 +46,19 @@ featured: false
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'https://arxiv.org/pdf/2503.21544'
+url_pdf: 'https://aclanthology.org/2025.inlg-main.39.pdf'
 url_code: 'https://github.com/YuweiYin/SWI'
 url_dataset: ''
-url_poster: ''
+url_poster: 'https://yuweiyin.com/files/pdf/SWI-INLG_2025-Poster.pdf'
 url_project: ''
 url_slides: ''
-url_source: 'https://arxiv.org/abs/2503.21544'
+url_source: 'https://aclanthology.org/2025.inlg-main.39'
 url_video: ''
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # image:
-#   caption: '2025-03-27-SWI'
+#   caption: '2025-10-29-SWI'
 #   focal_point: ''
 #   preview_only: false
 
@@ -101,17 +101,18 @@ MathJax = {
 };
 </script>
 
-![picture](https://yuweiyin.com/files/img/2025-03-27-SWI.jpg)
+![picture](https://yuweiyin.com/files/img/2025-10-29-SWI.jpg)
 
 ```bibtex
 @inproceedings{yin2025swi,
-    title     = {SWI: Speaking with Intent in Large Language Models},
-    author    = {Yin, Yuwei and Hwang, EunJeong and Carenini, Giuseppe},
-    booktitle = {Proceedings of the 18th International Natural Language Generation Conference},
-    month     = oct,
-    year      = {2025},
-    address   = {Hanoi, Vietnam},
-    publisher = {Association for Computational Linguistics},
-    url       = {https://arxiv.org/abs/2503.21544},
+  title     = {SWI: Speaking with Intent in Large Language Models},
+  author    = {Yin, Yuwei and Hwang, Eunjeong and Carenini, Giuseppe},
+  booktitle = {Proceedings of the 18th International Natural Language Generation Conference},
+  month     = {October},
+  year      = {2025},
+  address   = {Hanoi, Vietnam},
+  publisher = {Association for Computational Linguistics},
+  pages     = {684--698},
+  url       = {https://aclanthology.org/2025.inlg-main.39}
 }
 ```

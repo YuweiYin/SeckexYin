@@ -40,30 +40,23 @@ bio: CS PhD at UBC
 
 # Interests to show in About widget
 interests:
-  - Intelligence & Linguistics
-  - Generative AI & Embodied AI
+  - Artificial Intelligence
+  # - Intelligence & Linguistics
+  - Natural Language Processing
+  # - Computational Linguistics
   - Multimodality & Multilinguality
+  # - Generative AI & Embodied AI
   - Computational Cognitive Science
   # - Intelligence & Linguistics
   # - Generative AI & Multimodality
   # - Philosophy & Psychology
   # - Cosmology & Astrophysics
   # - Neuroscience & Metaphysics
-  # - Artificial General Intelligence
-  # - Natural Language Processing
-  # - Multilingualism & Multimodality
-  # - Multilingualism (Translation)
-  # - Multimodality (Vision-Language)
-  # - Embodied AI (Grounding + Reasoning)
   # - Multilingualism
   # - Multimodality
   # - Embodied AI
   # - AI Initiative & Free Will
-  # - Computational Linguistics
-  # - Multilingual Translation
-  # - Interpretability for NLP
-  # - Multimodal Machine Learning
-  # - Commonsense Reasoning & Interpretability
+  # - Machine Learning
 
 # Education to show in About widget
 education:
