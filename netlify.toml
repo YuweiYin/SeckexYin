@@ -19,3 +19,13 @@
   package = "netlify-plugin-hugo-cache-resources"
   [plugins.inputs]
     debug = true
+
+# Redirect with a 301
+[[redirects]]
+  from = "/*"
+  to = "https://www.cs.ubc.ca/~yuweiyin/"
+  status = 301
+  # status = 302
+  # status = 404
+  # status = 200
+  force = true
