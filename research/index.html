@@ -1,0 +1,136 @@
+<!DOCTYPE html>
+<html lang="en-US">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="icon" href="/favicon.ico" type="image/x-icon">
+    <title>Yuwei Yin</title>
+    <link rel="stylesheet" href="/assets/css/style.css">
+    <link rel="stylesheet" href="/assets/css/academicons.min.css"/>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+    <script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
+  </head>
+  <body>
+    <nav>
+      <div class="container">
+        <a href="/" class="nav-home">Home</a>
+        <div class="nav-links" id="nav-links">
+          <a href="/research">Research</a>
+          <a href="/teaching">Teaching</a>
+          <!-- <a href="/files/pdf/CV-Yuwei_Yin.pdf" target="_blank">CV</a> -->
+        </div>
+        <a href="javascript:void(0);" class="icon" onclick="toggleNav()">
+          <i class="fa fa-bars"></i>
+        </a>
+      </div>
+    </nav>
+    <div class="container">
+      <main>
+<p>[<a href="https://scholar.google.com/citations?user=DPAmfKEAAAAJ&hl=en&sortby=pubdate" target="_blank">Google Scholar</a>] [<a href="https://www.semanticscholar.org/author/Yuwei-Yin/2109472880" target="_blank">Semantic Scholar</a>] [<a href="https://openreview.net/profile?id=~Yuwei_Yin1" target="_blank">OpenReview</a>] [<a href="https://orcid.org/0000-0002-5022-6468" target="_blank">ORCID</a>] [<a href="https://dblp.org/pid/297/8984.html" target="_blank">DBLP</a>] [<a href="https://aclanthology.org/people/y/yuwei-yin/" target="_blank">ACL Anthology</a>] [<a href="https://huggingface.co/yuweiyin" target="_blank">HuggingFace</a>] [<a href="https://github.com/YuweiYin" target="_blank">GitHub</a>]</p>
+<!-- <a href="https://www.researchgate.net/profile/Yuwei_Yin4" target="_blank">[ResearchGate]</a> -->
+
+<h2 id="research">Selected Work</h2>
+
+<p><i>* denotes equal contribution</i> <i>(<a href="https://scholar.google.com/citations?user=DPAmfKEAAAAJ&hl=en&sortby=pubdate" target="_blank">full paper list</a>)</i></p>
+
+<p><b>ARR: Question Answering with Large Language Models via Analyzing, Retrieving, and Reasoning</b> <br />
+<i><u>Yuwei Yin</u>, Giuseppe Carenini</i> <br />
+Preprint 2025 <br />
+[<a href="https://arxiv.org/abs/2502.04689" target="_blank">Paper</a>] [<a href="https://github.com/YuweiYin/ARR" target="_blank">Code</a>]</p>
+
+<p><b>Infusing Theory of Mind into Socially Intelligent LLM Agents</b> <br />
+<i>EunJeong Hwang*, <u>Yuwei Yin</u>*, Giuseppe Carenini, Peter West, Vered Shwartz</i> <br />
+Preprint 2025 <br />
+[<a href="https://arxiv.org/abs/2509.22887" target="_blank">Paper</a>] [<a href="https://github.com/eujhwang/toma" target="_blank">Code</a>]</p>
+
+<p><b>SWI: Speaking with Intent in Large Language Models</b> <br />
+<i><u>Yuwei Yin</u>, EunJeong Hwang, Giuseppe Carenini</i> <br />
+INLG 2025: International Natural Language Generation Conference <br />
+[<a href="https://aclanthology.org/2025.inlg-main.39/" target="_blank">Paper</a>] [<a href="https://github.com/YuweiYin/SWI" target="_blank">Code</a>]</p>
+
+      </main>
+    </div>
+    <script src="/assets/js/slideshow.js"></script>
+    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.9.2/dist/umd/popper.min.js"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+    <script>
+      function toggleNav() {
+        var x = document.getElementById("nav-links");
+        x.classList.toggle("responsive");
+      }
+
+      // Apply theme on initial load
+      document.addEventListener('DOMContentLoaded', () => {
+        if (window.location.pathname.startsWith('/teaching/25fall-590/')) {
+            const searchInput = document.getElementById('search-input');
+            const searchResults = document.getElementById('search-results');
+
+            let searchIndex = [];
+
+            function search(query) {
+                searchResults.innerHTML = '';
+                if (query.length < 3) {
+                    searchResults.style.display = 'none';
+                    return;
+                }
+                searchResults.style.display = 'block';
+
+                const lowerCaseQuery = query.toLowerCase();
+                const results = searchIndex.flatMap(item => {
+                    const snippets = [];
+                    const content = item.content.toLowerCase();
+                    const regex = new RegExp(lowerCaseQuery, 'g');
+                    let match;
+                    while ((match = regex.exec(content)) !== null) {
+                        const startIndex = Math.max(0, match.index - 50);
+                        const endIndex = Math.min(content.length, match.index + query.length + 50);
+                        let snippet = item.content.substring(startIndex, endIndex);
+                        snippet = snippet.replace(new RegExp(query, 'gi'), (match) => `<mark>${match}</mark>`);
+                        snippets.push({
+                            path: item.path,
+                            title: item.title,
+                            snippet: `...${snippet}...`
+                        });
+                    }
+                    return snippets;
+                });
+
+                if (results.length > 0) {
+                    const ul = document.createElement('ul');
+                    ul.style.listStyleType = 'none';
+                    ul.style.padding = '0';
+                    const uniqueResults = results.filter((v,i,a)=>a.findIndex(t=>(t.path === v.path))===i)
+
+                    uniqueResults.forEach(result => {
+                        const li = document.createElement('li');
+                        li.style.marginBottom = '10px';
+                        const a = document.createElement('a');
+                        a.href = result.path + `?highlight=${encodeURIComponent(query)}`;
+                        a.innerHTML = `<strong>${result.title}</strong><br>${result.snippet}`;
+                        li.appendChild(a);
+                        ul.appendChild(li);
+                    });
+                    searchResults.appendChild(ul);
+                } else {
+                    searchResults.innerHTML = '<p>No results found.</p>';
+                }
+            }
+
+            searchInput.addEventListener('input', (e) => {
+                search(e.target.value);
+            });
+        }
+
+        const params = new URLSearchParams(window.location.search);
+        const highlight = params.get('highlight');
+        if (highlight) {
+            const mainContent = document.querySelector('main');
+            const regex = new RegExp(highlight, 'gi');
+            mainContent.innerHTML = mainContent.innerHTML.replace(regex, (match) => `<mark>${match}</mark>`);
+        }
+      });
+    </script>
+  </body>
+</html>
